@@ -18,6 +18,14 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+[![Eyup’s github stats](https://github-readme-stats.vercel.app/api?username=eyupdogan)](https://github.com/eyupdogan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyupdogan&layout=compact)](https://github.com/eyupdogan)
+
+
+- 📫 How to reach me ... 
+[![gmail](https://img.shields.io/badge/-eyodohan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:eyodohan@gmail.com)
+
 
 <!--
 **eyupdogan/eyupdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
