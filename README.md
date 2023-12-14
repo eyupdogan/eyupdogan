@@ -1,6 +1,6 @@
 ### Hi, I'm Eyup DOGAN
 
-### 💼 Technical Skills
+### 💼 Techs
 ![Android](https://img.shields.io/badge/Android-33A852?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%236C3FD1.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
