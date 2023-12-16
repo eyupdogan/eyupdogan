@@ -21,7 +21,7 @@
 ### 📈 GitHub Stats
 [![Eyup’s github stats](https://github-readme-stats.vercel.app/api?username=eyupdogan)](https://github.com/eyupdogan)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyupdogan&layout=compact&count_private=true&langs_count=5&exclude_repo=BIL2002-final,MemoryGame-MadeWithUnity&hide=html,python,shell)
 
 ### 🤝 Connect with me:
 [![gmail](https://img.shields.io/badge/eyodohan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:eyodohan@gmail.com)
