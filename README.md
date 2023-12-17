@@ -1,6 +1,6 @@
 ### Hi, I'm Eyup DOGAN
 
-### 💼 Techs
+### 💼 Techs / Tools
 ![Android](https://img.shields.io/badge/Android-33A852?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%236C3FD1.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,9 +18,7 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📈 GitHub Stats
-[![Eyup’s github stats](https://github-readme-stats.vercel.app/api?username=eyupdogan)](https://github.com/eyupdogan)
-
+### 📈 Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyupdogan&layout=compact&count_private=true&langs_count=5&exclude_repo=BIL2002-final,MemoryGame-MadeWithUnity&hide=html,python,shell)
 
 ### 🤝 Connect with me:
