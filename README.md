@@ -1,26 +1,52 @@
-### Hi, I'm Eyup DOGAN
+## Hi, I'm Eyup DOGAN (Android - React Native Developer)
+
+## ⏲ What am I doing right now?
+
+📚 Gaining In-Depth Knowledge: I am dedicated to acquiring in-depth knowledge of Android Development and staying up-to-date with the latest advancements in the field. I continuously explore new concepts, best practices, and emerging trends to enhance my understanding and proficiency.
+
+💻 Practical Project Development: Actively engaging in developing projects in the field of Android Development, I aim to strengthen my practical skills. By working on real-world applications, I improve my problem-solving abilities, code organization, and overall development expertise.
+
+🎯 Becoming a Proficient Android Developer: I am committed to acquiring the necessary skills and expertise to excel as a Android Developer.
+
+🌟 Overall Objective: My current focus revolves around expanding my knowledge of Android App Development, actively participating in relevant projects, and working diligently towards my goal of becoming a skilled Android Developer.
+
+<br />
 
 ### 💻 Techs / Tools
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
-![Kotlin](https://img.shields.io/badge/kotlin-%236C3FD1.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23039BE5.svg?style=for-the-badge&logo=java&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+</div>
 
 ### 📈 Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyupdogan&layout=compact&count_private=true&langs_count=5&exclude_repo=BIL2002-final,MemoryGame-MadeWithUnity&hide=html,python,shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eyupdogan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&&hide_border=false&order=2)
+
 
 ### 🤝 Connect with me:
 [![gmail](https://img.shields.io/badge/eyodohan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:eyodohan@gmail.com)
