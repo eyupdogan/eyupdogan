@@ -1,10 +1,10 @@
-## Hi, I'm Eyup DOGAN (Android - React Native Developer)
+## Hi, I'm Eyup DOGAN (Android / React Native Developer)
 
 ## ⏲ What am I doing right now?
 
-📚 Gaining In-Depth Knowledge: I am dedicated to acquiring in-depth knowledge of Android Development and staying up-to-date with the latest advancements in the field. I continuously explore new concepts, best practices, and emerging trends to enhance my understanding and proficiency.
+📚 Gaining In-Depth Knowledge: I am dedicated to acquiring in-depth knowledge of Android App Development and staying up-to-date with the latest advancements in the field. I continuously explore new concepts, best practices, and emerging trends to enhance my understanding and proficiency.
 
-💻 Practical Project Development: Actively engaging in developing projects in the field of Android Development, I aim to strengthen my practical skills. By working on real-world applications, I improve my problem-solving abilities, code organization, and overall development expertise.
+💻 Practical Project Development: Actively engaging in developing projects in the field of Android App Development, I aim to strengthen my practical skills. By working on real-world applications, I improve my problem-solving abilities, code organization, and overall development expertise.
 
 🎯 Becoming a Proficient Android Developer: I am committed to acquiring the necessary skills and expertise to excel as a Android Developer.
 
