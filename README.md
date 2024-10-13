@@ -49,7 +49,7 @@
 
 
 ### 🤝 Connect with me:
-[![gmail](https://img.shields.io/badge/eyodohan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:eyupdohan@gmail.com)
+[![gmail](https://img.shields.io/badge/eyupdohan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:eyupdohan@gmail.com)
 
 
 <!--
